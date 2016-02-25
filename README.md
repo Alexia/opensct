@@ -2,8 +2,8 @@
 Reverse engineering SCT Flash products mainly the X4.
 
 **Done**
-* Pull file system off device.
-* Document important integrated circuits and JTAG connectors.
+* [Pull file system off device.](sdcard/NO NAME)
+* [Document important integrated circuits and JTAG connectors.](docs/Circuit Board.md)
 
 **To Do / Goals**
 * Figure out what the pin hole button does on the button.
